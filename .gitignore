@@ -1,0 +1,20 @@
+
+Models/
+
+data/
+
+*.log
+Logs/
+LOG_FILE_PATH/
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+Cand_Gen_Results/before_ft_cand_train_results/scores_train.pkl
+Cand_Gen_Results/after_ft_cand_gen_train_results/scores_train.pkl
